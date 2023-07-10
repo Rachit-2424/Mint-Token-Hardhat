@@ -62,4 +62,4 @@ This contract is based on the ERC-20 token standard.
 The contract was developed using the Hardhat framework.
 
 ## Author
-Kislay Kaushal
+Rachit Gupta
